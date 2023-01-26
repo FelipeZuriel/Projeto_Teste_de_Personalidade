@@ -1,0 +1,164 @@
+[
+        {
+            "pergunta": "1) Imagine que você está com amigos em um restaurante e um deles decide não pagar a conta, o que você faz?",
+            "a" : ["    a) Você fica revoltado e toma a frente da situação, explicando para o seu amigo que isso é injusto com os demais. Se recusa a pagar a parte dele, incentivando os outros a se posicionar contra o pagamento.", "Tigre"],
+            "b" : ["    b) Com tranquilidade tenta resolver a situação. Caso o amigo se recuse a pagar a conta resolve não criar polêmicas e aceita, porém, vai pensar duas vezes antes de sair com esse amigo de novo.", "Leão"],
+            "c" : ["    c) Você fica profundamente magoado com o seu amigo. Resolve não criar polêmicas, paga a conta mas fica muito chateado.", "Panda"],
+            "d" : ["    d) Tenta apaziguar a situação e conversa com o amigo para ver o que aconteceu, se ele está atravessando uma situação financeira difícil. Caso você goste muito do amigo oferece dinheiro para ele pagar a conta.", "Coruja"],
+            "e" : ["    e) Você fica irritado com a situação, argumenta com o amigo que aquilo é um absurdo. Pode até vir a pagar a conta mas com certeza vai riscar essa pessoa da suas amizades pois não é honesta.", "Tubarão"]
+        },
+        {
+            "pergunta": "2) Você",
+            "a" : ["a) Defende o que acredita, mesmo quando tentam te intimidar.", "Coruja"],
+            "b" : ["b) Tem um grande poder de concentração.", "Leão"],
+            "c" : ["c) É criativo e sensível.", "Panda"],
+            "d" : ["d) Faz amigos com facilidade.", "Tigre"],
+            "e" : ["e) Com você missão dada e missão cumprida - sempre termina (e bem!) o que se propõe a fazer.", "Tubarão"]
+        },
+        {
+            "pergunta": "3) Imagine que seu colega de trabalho está discutindo com você e acaba te chamando de idiota, o que você faz?",
+            "a" : ["a) Fica irritado e responde com agressividade. Caso o colega se desculpe deixa pra lá.", "Panda"],
+            "b" : ["b) Não dá a mínima, acha que o colega já perdeu a razão.", "Tigre"],
+            "c" : ["c) Fica constrangido,  magoado e não responde. Para que aumentar a discussão?.", "Tubarão"],
+            "d" : ["d) Retruca alguma coisa mas não dá muita importância, passa o tempo e você nem lembra mais.", "Coruja"],
+            "e" : ["e) Fica furioso e revida. Mesmo que o colega se desculpe fica magoado.", "Leão"]
+        },
+        {
+            "pergunta": "4) As pessoas te acham:",
+            "a" : ["a) Competente e diligente.", "Tubarão"],
+            "b" : ["b) Calmo e tranquilo.", "Leão"],
+            "c" : ["c) Bem intencionado e transparente.", "Coruja"],
+            "d" : ["d) Bem humorado e divertido.", "Panda"],
+            "e" : ["e) Misterioso e comprometido.", "Tigre"]
+        },
+        {
+            "pergunta": "5) Voce é aquele que:",
+            "a" : ["a) Toma a frente das situações.", "Coruja"],
+            "b" : ["b) Dificilmente perde a paciência.", "Leão"],
+            "c" : ["c) Tem muita empatia com os demais.", "Panda"],
+            "d" : ["d) Sabe contar uma boa historia.", "Tigre"],
+            "e" : ["e) Tem foco e disciplina.", "Tubarão"]
+        },
+        {
+            "pergunta": "6) O que você não faz de jeito nenhum?",
+            "a" : ["a) Me calar com o que não concordo.", "Panda"],
+            "b" : ["b) Gritar e perder totalmente o controle.", "Tigre"],
+            "c" : ["c) Bulling ou brincadeiras de mau gosto.", "Leão"],
+            "d" : ["d) Acabar com amizades por pequenas ofensas.", "Tubarão"],
+            "e" : ["e) Me submeter a situações que não concordo.", "Coruja"]
+        },
+        {
+            "pergunta": "7) Nenhuma das opções abaixo é boa mas o que te incomoda mais:",
+            "a" : ["a) Ser ignorado.", "Leão"],
+            "b" : ["b) Ser interrompido.", "Tubarão"],
+            "c" : ["c) Rirem de você.", "Coruja"],
+            "d" : ["d) Ser excluído.", "Tigre"],
+            "e" : ["e) Ser julgado.", "Panda"]
+        },
+        {
+            "pergunta": "8) Como é a sua rotina",
+            "a" : ["a) Sei exatamente o que fazer o dia inteiro e sou rígido.", "Tubarão"],
+            "b" : ["b) Faço apenas o que me comprometi com outras pessoas, sozinho perco a motivação.", "Coruja"],
+            "c" : ["c) Tenho dificuldade em manter rotinas. Se me empolgo com algo passo horas fazendo com muita energia mas, se me deprimo, não faço mais nada.", "Tigre"],
+            "d" : ["d) Mantenho a minha rotina mas não sou rígido.", "Panda"],
+            "e" : ["e) Se estou fazendo um trabalho sou constante e não paro até terminar. Se não tenho novas tarefas, fico perdido.", "Leão"]
+        },
+        {
+            "pergunta": "9) Ao cozinhar você",
+            "a" : ["a) Sigo a receita rigidamente.", "Coruja"],
+            "b" : ["b) Fico um pouco inseguro, nunca sei se a receita vai sair igual.", "Leão"],
+            "c" : ["c) Gosto de entender a receita mas criar minhas próprias versões. Se preciso seguir a receita a risca posso ficar entediado.", "Tubarão"],
+            "d" : ["d) Sigo a receita mas vou dando o meu toque e improvisando.", "Tigre"],
+            "e" : ["e) Se preciso, não tenho dificuldades de seguir os passos da receita.", "Panda"]
+        },
+        {
+            "pergunta": "10) Ninguém é perfeito e, às vezes, às pessoas reclamam que você é:",
+            "a" : ["a) Teimoso.", "Panda"],
+            "b" : ["b) Procrastinador.", "Leão"],
+            "c" : ["c) Vive em altos e baixos.", "Tubarão"],
+            "d" : ["d) Mandão.", "Coruja"],
+            "e" : ["e) Esquecido.", "Tigre"]
+        },
+        {
+            "pergunta": "11) Mas, também é:",
+            "a" : ["a) Organizado, prático e estável emocionalmente.", "Panda"],
+            "b" : ["b) Analista, cuidadoso e sensível.", "Tubarão"],
+            "c" : ["c) Intuitivo, sensível e criativo.", "Tigre"],
+            "d" : ["d) Cheio de energia, prático e decidido.", "Leão"],
+            "e" : ["e) Estável emocionalmente, compreensivo e racional.", "Coruja"]
+        },
+        {
+            "pergunta": "12) O que você faz se chega em uma festa e não encontra nenhum conhecido?",
+            "a" : ["a) Sou extrovertido, converso com quem estiver por perto e faço amigos.", "Tubarão"],
+            "b" : ["b)  Procuro uma pessoa conhecida.", "Tigre"],
+            "c" : ["c)  Depende: se eu estiver de bom humor puxo assunto com alguém ou procuro um conhecido, senão, fico na minha.", "Panda"],
+            "d" : ["d)  Espero algum conhecido vir falar comigo.", "Coruja"],
+            "e" : ["e) Vou embora", "Leão"]
+        },
+        {
+            "pergunta": "13) Quando tem um objetivo, você:",
+            "a" : ["a) Sou um pouco indisciplinado, nada de esquentar a cabeça.", "Coruja"],
+            "b" : ["b)  Sou determinado, disciplinado e eficiente.", "Leão"],
+            "c" : ["c) Extremamente perfeccionista e persistente.", "Tigre"],
+            "d" : ["d)  Faço as coisas no meu tempo, sem estresse.", "Tubarão"],
+            "e" : ["e) Apenas sonho sem correr atrás.", "Panda"]
+        },
+        {
+            "pergunta": "14) Em uma discussão você:",
+            "a" : ["a) Sou impulsivo, falo antes de pensar.", "Leão"],
+            "b" : ["b)  Argumento muito bem mas sou um pouco agressivo.", "Tigre"],
+            "c" : ["c)  Sou analítico e cauteloso nos meus argumentos.", "Panda"],
+            "d" : ["d)  Evito discussões mas, se não tiver remédio, sou apaziguador.", "Tubarão"],
+            "e" : ["e) Agressivo, expondo minhas ideias sem medo", "Coruja"]
+        },
+        {
+            "pergunta": "15) Nas suas relações você é:",
+            "a" : ["a) Caloroso e amigável.", "Panda"],
+            "b" : ["b)  Dominante, gosto de estar no controle.", "Coruja"],
+            "c" : ["c)  Sensível, levo muito em consideração o sentimento alheio.", "Tubarão"],
+            "d" : ["d)  Um pouco frio mas de fácil convivência.", "Leão"],
+            "e" : ["e) Retraído e submisso", "Tigre"]
+        },
+        {
+            "pergunta": "16) Qual defeito tem mais a ver com você?",
+            "a" : ["a) Desorganizado.", "Leão"],
+            "b" : ["b) Agressivo.", "Panda"],
+            "c" : ["c) Inseguro.", "Tigre"],
+            "d" : ["d) Desmotivado.", "Tubarão"],
+            "e" : ["e) Reclamão", "Coruja"]
+        },
+        {
+            "pergunta": "17) Você…",
+            "a" : ["a) Consegue identificar facilmente o humor das pessoas.", "Coruja"],
+            "b" : ["b) Raramente chora.", "Tigre"],
+            "c" : ["c) Gosta de assuntos ligados a arte (música, dança ou desenhos).", "Tubarão"],
+            "d" : ["d) Dificilmente se irrita.", "Leão"],
+            "e" : ["e) Gosta de esportes (Futebol, Skate, Natação, etc..)", "Panda"]
+        },
+        {
+            "pergunta": "18) Nas amizades, você…",
+            "a" : ["a) Tem muitos amigos.", "Leão"],
+            "b" : ["b) É dominante: seus amigos te classificam como mandão.", "Tubarão"],
+            "c" : ["c) É um amigo fiel mas tem dificuldade em fazer amizades.", "Tigre"],
+            "d" : ["d) Não tem muitos amigos, mas é bastante tranquilo quanto a isso.", "Coruja"],
+            "e" : ["e) Poucos amigos próximos, mas crio conexão fácil.", "Panda"]
+        },
+        {
+            "pergunta": "19) Você é bom em:",
+            "a" : ["a) Contar histórias: consigo prender a atenção das pessoas.", "Tigre"],
+            "b" : ["b) Debates: não vacilo sob a pressão dos outros.", "Leão"],
+            "c" : ["c) Sou ótimo para analisar situações e tomar decisões.", "Panda"],
+            "d" : ["d) Diplomata: sempre consigo manter a paz na relação com as pessoas.", "Coruja"],
+            "e" : ["e) Causar o caos e discórdia.", "Tubarão"]
+        },
+        {
+            "pergunta": "20) Os desafios:",
+            "a" : ["a) Te movem.", "Panda"],
+            "b" : ["b) Te preocupam.", "Coruja"],
+            "c" : ["c) Te empolgam.", "Tubarão"],
+            "d" : ["d) Não te abalam.", "Leão"],
+            "e" : ["e) Te desmotivam.", "Tigre"]
+        }
+    ]
+
+

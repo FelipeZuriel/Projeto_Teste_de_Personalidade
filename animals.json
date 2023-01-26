@@ -1,0 +1,23 @@
+{
+    "coruja" :
+        {
+        "local" : "./photos/coruja.jpeg",
+        "frase" : "Você é inteligente e sabe muito para a sua idade. Sua inteligência é vasta e a sensatez acompanha sua genialidade. Acima de tudo, você tem uma perspectiva que sempre permite que você tenha uma visão mais ampla."
+    },
+    "leao" : {
+        "local" : "./photos/leao.jpeg",
+        "frase" : "Você é líder e uma pessoa que os outros admiram. Raramente segue os outros e gosta de definir seu próprio caminho. Você é da realeza e se porta com um prestígio invejável."
+    },
+    "panda" : {
+        "local" : "./photos/Panda.jpeg",
+        "frase" : "Você gosta de brincar e tem bastante energia. Você é uma gracinha e sempre movimenta as festas que você vai. As pessoas gostam da sua atitude e sempre querem estar perto de você."
+    },
+    "tigre" : {
+        "local" : "./photos/tigre.jpeg",
+        "frase" : "Os Tigres costumam ser pessoas fogosas e humanitárias, que amam a vida, mas a sua personalidade forte gera, frequentemente, conflitos, pois os Tigres são muito competitivos - arrogantes, por vezes - e necessitam de aprovação constante. Não suportam ser ignorados."
+    },
+    "tubarão" : {
+        "local" : "./photos/tub.jpeg",
+        "frase" : "Você é inteligente e sabe muito para a sua idade. Sua inteligência é vasta e a sensatez acompanha sua genialidade. Acima de tudo, você tem uma perspectiva que sempre permite que você tenha uma visão mais ampla."
+    }
+}
